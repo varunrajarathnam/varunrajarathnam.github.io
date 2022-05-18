@@ -1,5 +1,5 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "Varun Rajarathnam"
+author: "Varun Rajarathnam"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
@@ -20,10 +20,12 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
+  - {title: Mail, icon: envelope, url: "mailto:varun.rajarathnam30@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/varunrajarathnam"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/varun-r-042972179/"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/varurajarathnam"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/varunrajarathnam/?hl=en"}
+  
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
